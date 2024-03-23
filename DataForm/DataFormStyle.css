@@ -1,0 +1,27 @@
+.data-form-input{
+    margin: 5px;
+    padding: 5px;
+}
+
+.personal-data{
+    display: flexbox;
+    margin: 5px;
+    padding: 5px;
+}
+
+.contact-data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 5px;
+}
+
+.data{
+    margin: 5px;
+    padding: 5px;
+}
+
+.personal-data input{
+    width: 100%;
+}

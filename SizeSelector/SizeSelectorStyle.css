@@ -1,0 +1,17 @@
+.size-selector{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+}
+.size-selector-mobile{
+    display: flexbox;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+}
+
+.item{
+    margin: 10px;
+}

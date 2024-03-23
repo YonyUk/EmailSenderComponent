@@ -1,0 +1,18 @@
+.selectors,.mode-selector,.position-selector{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    justify-content: space-around;
+    justify-items: center;
+    padding: 5px
+}
+
+.mode-selector,.position-selector{
+    padding: 5px;
+    display: inline-table;
+    margin: 5px;
+}
+.box-selection{
+    margin: 10px;
+    padding: 5px;
+}
